@@ -44,11 +44,11 @@ export default function Home() {
         <section className="mt-12 p-6 bg-gray-50 rounded-lg">
           <h2 className="text-2xl font-semibold mb-4">Need Help?</h2>
           <p className="text-gray-600">
-            Can't find what you're looking for? Check out our{' '}
+            Can&apos;t find what you&apos;re looking for? Check out our{" "}
             <a href="#" className="text-blue-600 hover:underline">
               FAQ
-            </a>{' '}
-            or{' '}
+            </a>{" "}
+            or{" "}
             <a href="#" className="text-blue-600 hover:underline">
               contact support
             </a>
